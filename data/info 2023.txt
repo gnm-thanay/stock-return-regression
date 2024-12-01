@@ -1,0 +1,5 @@
+"ID" "Name" "Currency" "Focus"
+1 "Index 1" "USD" "United States"
+2 "Index 2" "USD" "United States"
+3 "Index 3" "USD" "Europe"
+4 "Stock A" "USD" "United States"
